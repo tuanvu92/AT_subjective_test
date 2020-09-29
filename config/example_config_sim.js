@@ -10,7 +10,7 @@ var TestConfig = {
   "ShowResults": false,
   "LoopByDefault": false,
   "EnableABLoop": true,
-  "EnableOnlineSubmission": true,
+  "EnableOnlineSubmission": false,
   "BeaqleServiceURL": "http://www.jaist.ac.jp/~s1820029/atsip/web_service/fiction/beaqleJS_Service.php",
   "SupervisorContact": "tuanvu.ho@jaist.ac.jp",
   "RandomizeTestOrder": false,
