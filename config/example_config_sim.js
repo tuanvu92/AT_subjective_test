@@ -11,7 +11,7 @@ var TestConfig = {
   "LoopByDefault": false,
   "EnableABLoop": true,
   "EnableOnlineSubmission": true,
-  "BeaqleServiceURL": "http://www.jaist.ac.jp/~s1820029/atsip/web_service/beaqleJS_Service.php",
+  "BeaqleServiceURL": "http://www.jaist.ac.jp/~s1820029/atsip/web_service/fiction/beaqleJS_Service.php",
   "SupervisorContact": "tuanvu.ho@jaist.ac.jp",
   "RandomizeTestOrder": false,
   "MaxTestsPerRun": 10,
